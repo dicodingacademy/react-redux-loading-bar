@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-loading-bar",
+  "name": "@dicodingacademy/react-redux-loading-bar",
   "version": "5.0.10",
   "description": "Simple Loading Bar for Redux and React",
   "main": "build/index.js",
