@@ -1,3 +1,5 @@
+> This is the fork version of https://github.com/mironov/react-redux-loading-bar to keep compatibility of library that used in [Menjadi React Web Developer Expert](https://dicoding.com/academies/418) course.
+
 # React Redux Loading Bar
 
 [![npm version](https://img.shields.io/npm/v/react-redux-loading-bar.svg?style=flat-square)](https://www.npmjs.com/package/react-redux-loading-bar)
